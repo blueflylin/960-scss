@@ -6,7 +6,7 @@ Special thanks go to [Eric Meyer](http://meyerweb.com/eric/ "Eric Meyer's Websit
 
 ## Changes ##
 
-* Sass
+* Sass / scss
 * Dashes instead of underscores
 * Spaces instead of tabs
 * Organized for readability
