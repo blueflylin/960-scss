@@ -1,1 +1,8 @@
 .DS_Store
+# ignore aptana project file
+.project
+# ignore gedit files
+*~
+# ignore cache files created by sass generator
+.sass-cache
+
